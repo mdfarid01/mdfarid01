@@ -33,7 +33,7 @@ It updates automatically to reflect my recent activity.
 
 - 🌍 Portfolio: https://thefarid.xyz  
 - 🐦 Twitter/X: https://x.com/MdFarid7886  
-- 💼 LinkedIn: (add your LinkedIn link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/md-farid-1aa563291/
 
 ---
 
